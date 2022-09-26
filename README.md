@@ -39,6 +39,11 @@ This automation has been done on GCP using CentOS as the image for hosting confi
 ![image](https://user-images.githubusercontent.com/33410430/192201011-07b6990e-744a-471b-9562-b7826dae9a7f.png)
 
 
+## CI/CD (Optional)
+We can also integrate the current setup with CI/CD pipelines using Azure DevOps to automate the build and deployment. Below strategy can be used for the same
+
+![image](https://user-images.githubusercontent.com/33410430/192234855-ff1ad799-6027-4604-acd2-193906e5f7ca.png)
+
 
 
 
