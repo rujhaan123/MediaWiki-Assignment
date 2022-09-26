@@ -97,7 +97,6 @@ selinux(){
 	ls -lZ /var/www/
 }
 
-
 # RUN
 update
 installMySQL
