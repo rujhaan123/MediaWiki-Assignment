@@ -15,10 +15,10 @@ variable "email" {
 }
 variable "privatekeypath" {
   type    = string
-  default = "/home/rujhaanb807/id_rsa"
+  default = "~/.ssh/id_rsa"
 }
 
 variable "publickeypath" {
   type    = string
-  default = "/home/rujhaanb807/id_rsa.pub"
+  default = "~/.ssh/id_rsa.pub"
 }
