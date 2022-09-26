@@ -30,5 +30,10 @@ This automation has been done on GCP using CentOS as the image for hosting confi
 
 ![image](https://user-images.githubusercontent.com/33410430/192189226-5984fa35-f4d8-4c55-8481-4d22af141045.png)
 
+- Running the mediawiki webpage. As per the screenshot below it shows internal error because of version is incompatible. It can be upgraded but as per the task kept the same instuctions which was given.
+
+![image](https://user-images.githubusercontent.com/33410430/192189375-c421e6ac-820c-46b9-9769-06a87973b22d.png)
+
+
 
 
