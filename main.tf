@@ -4,7 +4,7 @@ provider "google" {
 }
 
 resource "google_compute_firewall" "firewall" {
-  name    = "gritfy-firewall-externalssh"
+  name    = "new-firewall-externalssh"
   network = "default"
 
   allow {
